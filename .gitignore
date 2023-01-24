@@ -1,0 +1,21 @@
+.encryptedKey.json
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+yarn.log
+
+# vs code
+.vscode
+
+# Hardhat files
+cache
+artifacts
+.DS_Store
+gas-reports.test
+yarn-error.log
+deployments
+
+.notes.md
